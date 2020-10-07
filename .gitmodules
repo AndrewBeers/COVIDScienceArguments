@@ -1,0 +1,3 @@
+[submodule "Twitter2SQL"]
+	path = Twitter2SQL
+	url = https://github.com/AndrewBeers/Twitter2SQL
